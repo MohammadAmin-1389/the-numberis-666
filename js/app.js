@@ -1,22 +1,3 @@
-// let a = 0;
-// let b = 999;
-// let d =Number( document.getElementsByTagName("input")[0]);
-
-// d.value .addEventListener("blur" , (e)=>{
-// if(d.value === 0)
-//     {
-
-//     alert(", خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ , خوژتیپ")
-// }
-
-
-// else if(d < 10){
-//     alert("افرین داری نزدیک میشی")
-// }
-
-// })
-
-
 let a = 666;
 let b = document.getElementsByTagName("input")[0];
 
